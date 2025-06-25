@@ -12,7 +12,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Arif547&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Arif547&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arif547&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arif547&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Arif547=anuraghazra&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arif547&theme=radical&no-frame=false&no-bg=false&margin-w=4)
